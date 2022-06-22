@@ -1,0 +1,13 @@
+.Tile {
+    height: 100%;
+    margin: auto;
+    justify-content: center;
+    display: flex
+}
+
+.Tile img {
+    margin: auto;
+    width: 70%;
+    height: 90%;
+    object-fit: fill
+}

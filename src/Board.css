@@ -1,0 +1,14 @@
+.Board {
+    width: 50vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.Row {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+}
+
